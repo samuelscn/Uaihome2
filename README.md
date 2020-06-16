@@ -20,6 +20,12 @@
     <img alt="Telas" src="www/img/ImgSloganUaiHome.jpg" width="150px"/>
     <img alt="Telas" src="www/img/ImgLoginUaiHome.jpg" width="150px"/>
     <img alt="Telas" src="www/img/ImgCadastroUaiHome.jpg" width="150px"/>
+    <img alt="Telas" src="www/img/imgMenuUaiHome.jpg" width="150px"/>
+    <img alt="Telas" src="www/img/ImgPerfilUaiHome.jpg" width="150px"/>
+    <img alt="Telas" src="www/img/ImgPagAdmRepUaiHome.jpg" width="150px"/>
+    <img alt="Telas" src="www/img/ImgBugsUaiHome.jpg" width="150px"/>
+    <img alt="Telas" src="www/img/ImgProcurarRepUaiHome.jpg" width="150px"/>
+    <img alt="Telas" src="www/img/ImgRepEncontradasUaiHome.jpg" width="150px"/>
 </h1>
 
 <hr/>
