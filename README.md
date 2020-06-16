@@ -2,19 +2,19 @@
     <img alt="Logo" title="NotiFlame" src="www/img/logo-sem-borda.png" width="420px" />
 </h1>
 
-<hr>
+
 
 <p align="center">
   <a href="#projeto">Projeto</a>
-
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>
-
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#protótipo-do-hardware">Protótipo</a>
-
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#arquitetura-do-sistema">Arquitetura</a>
 </p>
 
-<hr>
+
 
 <h1 align="center">
     <img alt="Telas" src="www/img/slogan.jpg" width="150px"/>
