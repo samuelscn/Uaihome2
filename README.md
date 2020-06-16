@@ -2,19 +2,6 @@
     <img alt="Logo" title="NotiFlame" src="www/img/logo-sem-borda.png" width="420px" />
 </h1>
 
-
-
-<p align="center">
-  <a href="#projeto">Projeto</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#protótipo-do-hardware">Protótipo</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#arquitetura-do-sistema">Arquitetura</a>
-</p>
-
-
 ## ✦ Telas
 <br>
 <h1 align="center">
