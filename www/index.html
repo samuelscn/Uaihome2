@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+	
+	<html lang="pt-br">
+		<head>
+			<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<title>U.A.I home</title>
+			<meta name="description" content="Aplicativo para otimizar na procura de Republicas">
+			<meta name="keywords" content="Aplicativo, Republica">
+			<meta name="robots" content="index, follow">
+			<meta name="author" content="Samuel Silva">
+		
+			<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+			<link rel="icon" href="img/icon-170x200.png">
+			<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+			<style>
+				#logo{
+					width: 100%;
+					margin-top: 100px;
+				}
+				.input-btn-01{
+					margin-top: 50px;
+				}
+				.input-btn-01 input{
+					width: 95%;
+					height: 32px;
+					text-align: center;
+					background-color: #0695ED;
+					color: #FFFFFF;
+					border-radius: 7px;
+					margin: 5px;
+					outline: none;
+					border: none;
+					font-family: "sdsans-fillone";
+					font-size: 14px;
+					}
+					.input-btn-02{
+						margin-top: 0px;
+						
+					}
+					.input-btn-02 input{
+						width: 95%;
+						margin-left: 5px;
+						height: 32px;
+						text-align: center;
+						background-color: #FFFFFF;
+						color: #0695ED;
+						border-radius: 5px;
+						border-bottom: 1px solid #FFFFFF;
+					    border-left: 1px solid #FFFFFF;
+					    border-right: 1px solid #FFFFFF;
+					    border-top: 1px solid #FFFFFF;
+					    outline: none;
+					    font-family: "sdsans-fillone";
+					    font-size: 14px;
+					}
+					@font-face{
+						font-family: "sdsans-fillone";
+						src: url("sunshine/sdsans-fillone.otf") format("truetype")
+			}
+			</style>
+		</head>
+		<body class="body">
+			<header class="cabecalho">
+				<center><img src="img/logo-sem-borda.png" id="logo"></center> 
+				<div class="input-btn-01" id="input-comecar">
+					<input type="button" value="Começar agora">
+				</div>
+				<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+				<script>
+					$('#input-comecar').click(function(){
+						$.ajax({
+							url:"ajax/controle_falso.php"
+						}).done(function(msg){
+							$('.body').hide('slow');
+							setTimeout(function(){
+								$(location).attr('href', 'cadastro.php');
+							},500)
+						});
+					});
+				</script>
+					<div class="input-btn-02" id="input-open">
+						<input type="button" value="Já tenho uma conta">
+					</div>
+					<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+					<script>
+						$('#input-open').click(function(){
+							$.ajax({
+								url:"ajax/controle_falso.php"
+							}).done(function(msg){
+								$('.body').hide('slow');
+								setTimeout(function(){
+									$(location).attr('href', 'loginteste.php');
+								},500)
+							});
+						});
+					</script>
+			</header>
+		</body>
+		</html>
