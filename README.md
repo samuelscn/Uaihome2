@@ -17,9 +17,9 @@
 <hr>
 
 <h1 align="center">
-    <img alt="Telas" src="www/img/ImgSloganUaiHome.jpg" width="100%"/>
-    <img alt="Telas" src="www/img/ImgLoginUaiHome.jpg" width="100%"/>
-    <img alt="Telas" src="www/img/ImgCadastroUaiHome.jpg" width="100%"/>
+    <img alt="Telas" src="www/img/ImgSloganUaiHome.jpg" width="220px"/>
+    <img alt="Telas" src="www/img/ImgLoginUaiHome.jpg" width="220px"/>
+    <img alt="Telas" src="www/img/ImgCadastroUaiHome.jpg" width="220px"/>
 </h1>
 
 <hr/>
