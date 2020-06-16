@@ -16,7 +16,6 @@
     <img alt="Telas" src="www/img/rep.jpg" width="150px"/>
 </h1>
 
-<hr/>
 
 ## ✦ Projeto
 <br>
@@ -45,7 +44,7 @@ Segue abaixo uma imagem da estrutura do banco de dados utilizada para que fosse 
 </div>
 
 <h1 align="center">
-    <img alt="Protoboard" title="Esquema" src="www/img/ImgPhpMyAdminUaiHome.jpg" width="45%" />
+    <img alt="Protoboard" title="Esquema" src="www/img/ImgPhpMyAdminUaiHome.jpg" width="70%" />
 </h1>
 
 ---
