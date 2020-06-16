@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="#projeto">Projeto</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
   <a href="#tecnologias">Tecnologias</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
   <a href="#protótipo-do-hardware">Protótipo</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
   <a href="#arquitetura-do-sistema">Arquitetura</a>
 </p>
 
