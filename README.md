@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo" title="NotiFlame" src="www/img/logo-sem-borda.png" width="220px" />
+    <img alt="Logo" title="NotiFlame" src="www/img/logo-sem-borda.png" width="420px" />
 </h1>
 
 <hr>
@@ -17,7 +17,9 @@
 <hr>
 
 <h1 align="center">
-    <img alt="Telas" title="App" src=".doc/Telas.svg" width="100%"/>
+    <img alt="Telas" src="www/img/ImgSloganUaiHome.jpg" width="100%"/>
+    <img alt="Telas" src="www/img/ImgLoginUaiHome.jpg" width="100%"/>
+    <img alt="Telas" src="www/img/ImgCadastroUaiHome.jpg" width="100%"/>
 </h1>
 
 <hr/>
