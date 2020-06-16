@@ -23,7 +23,7 @@
     <img alt="Telas" src="www/img/menu.jpg" width="150px"/>
     <img alt="Telas" src="www/img/perfil.jpg" width="150px"/>
     <img alt="Telas" src="www/img/adm.jpg" width="150px"/>
-    <img alt="Telas" src="www/img/bugs.jpg" width="150px"/>
+    <img alt="Telas" src="www/img/Bug.jpg" width="150px"/>
     <img alt="Telas" src="www/img/ImgProcurarRepUaiHome.jpg" width="150px"/>
     <img alt="Telas" src="www/img/rep.jpg" width="150px"/>
 </h1>
