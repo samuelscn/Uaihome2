@@ -44,7 +44,7 @@ Segue abaixo uma imagem da estrutura do banco de dados utilizada para que fosse 
 </div>
 
 <h1 align="center">
-    <img alt="Protoboard" title="Esquema" src="www/img/ImgPhpMyAdminUaiHome.jpg" width="70%" />
+    <img alt="Protoboard" title="Esquema" src="www/img/ImgPhpMyAdminUaiHome.jpg" width="100%" />
 </h1>
 
 ---
