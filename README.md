@@ -21,9 +21,7 @@
 ## ✦ Projeto
 <br>
 <div style="text-align: justify">
-O módulo NotiFlame é composto por um sistema embarcado e um aplicativo que tem como função primordial empregar o papel de interface homem-máquina, ou seja, realizar a comunicação entre os sistemas de um modo mais simples e intuitivo. 
-
-O módulo embarcado é composto por dois sensores e um buzzer. Os dois primeiros são responsáveis por detectar tanto incêndio quanto um gás no ambiente que possa provocar o mesmo. O buzzer consiste basicamente de um alarme físico caso o usuário não tome conhecimento do perigo através do aplicativo (notificação).
+O software UaiHome foi meu primeiro projeto iniciado em 2018 com o intuito de aprender mais sobre desenvolvimento de um aplicativo, portanto devido ao fato de ser um projeto de aprendizagem há varios erros e estruturas confusas. Apesar de tudo tive bastante aprendizado nesse pequeno projeto, já que executei sozinho utilizando do youtube e documentações como metodo de aprendizado.
 </div>
 
 ## ✦ Tecnologias
@@ -31,40 +29,27 @@ O módulo embarcado é composto por dois sensores e um buzzer. Os dois primeiros
 <div style="text-align: justify">
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-**Hardware:**
-- [ESP32](https://www.espressif.com/en/products/socs/esp32/overview)
-- Sensores:
-  - Sensor de Gás: MQ-7
-  - Sensor de Chama/Fogo
-  - Buzzer
-
 **Software:**
-- [PlatformIO](https://platformio.org/)
-- [Flutter](https://flutter.dev/)
-- [Google Cloud | IOT](https://cloud.google.com/solutions/iot?hl=pt-br)
-- [Firebase | Cloud Firestore ](https://firebase.google.com/docs/firestore)
+- [SQL](https://www.mysql.com/)
+- [PHPMyAdmin](https://www.phpmyadmin.net/)
+- [HTML5]
+- [CSS]
+- [JavaScript]
+- [XAMPP](https://www.apachefriends.org/pt_br/index.html)
 </div>
 
-## ✦ Protótipo do Hardware
+## ✦ Banco de Dados
 <br>
 <div style="text-align: justify">
-Segue abaixo uma representação simbólica dos sensores, jumpers e do microcontrolador ESP32 utilizados para a construção do módulo físico. O diagrama foi elaborado utilizando o software <a href="https://fritzing.org/home/">Fritzing</a>
+Segue abaixo uma imagem da estrutura do banco de dados utilizada para que fosse possível realizar os testes no software.
 </div>
 
 <h1 align="center">
-    <img alt="Protoboard" title="Esquema" src=".doc/Protoboard.png" width="45%" />
-</h1>
-
-## ✦ Arquitetura do Sistema
-<br>
-<div style="text-align: justify">
-A seguir, uma representação simbólica da arquitetura de comunicação entre o dispositivo mobile e a nuvem. Os dados interpretados pelo microcontrolador são enviados para o Google Cloud e esses por sua vez são armazenados no Cloud Firestore, um banco de dados NoSQL. O usuário com acesso pode consultar esses dados pelo aplicativo, na aba: `Dashboard`
-</div>
-
-<h1 align="center">
-    <img alt="Arquitetura" title="Esquema" src=".doc/Esquema.svg" width="80%" />
+    <img alt="Protoboard" title="Esquema" src="www/img/ImgPhpMyAdminUaiHome.jpg" width="45%" />
 </h1>
 
 ---
 
-O projeto foi desenvolvido, para fins didáticos, durante a disciplina de Sistemas Embarcados do curso de Bacharelado em Ciência da Computação – Campus Florestal
+Este projeto foi desenvolvido, para fins didáticos!
+By: Samuel Silva Costa Nascimento
+Graduando em Ciência da Computação na Universidade Federal de Viçosa campus Florestal
