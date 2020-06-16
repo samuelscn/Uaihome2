@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo" title="NotiFlame" src=".doc/NotiFlame.svg" width="220px" />
+    <img alt="Logo" title="NotiFlame" src="www/img/" width="220px" />
 </h1>
 
 <hr>
